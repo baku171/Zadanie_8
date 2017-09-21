@@ -8,5 +8,4 @@ function drawTree(levels) {
     }
 }
 
-console.log(drawTree(4));
-console.log(drawTree(9));
+drawTree(9)
