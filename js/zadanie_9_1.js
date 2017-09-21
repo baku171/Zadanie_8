@@ -5,11 +5,11 @@ function getTriangleArea(a, h) {
         return 'Nieprawidłowe dane';
     };
 }
-//console.log( getTriangleArea(-6, 10) );
+//console.log(getTriangleArea(-6, 10));
 
 var triangle1Area = getTriangleArea(-5, 10),
-triangle2Area = getTriangleArea(10, 16),
-triangle3Area = getTriangleArea(15, 12);
+    triangle2Area = getTriangleArea(10, 16),
+    triangle3Area = getTriangleArea(15, 12);
 
 console.log(triangle1Area);
 console.log(triangle2Area);
