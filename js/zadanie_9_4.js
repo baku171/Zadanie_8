@@ -1,4 +1,3 @@
-var levels = 5;
 function drawTree(levels) {
     for (var i = 0; i <= levels; i++) {
         var star = '';
