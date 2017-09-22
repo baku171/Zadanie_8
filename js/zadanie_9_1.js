@@ -3,7 +3,7 @@ function getTriangleArea(a, h) {
         return a * h / 2;
     } else {
         return 'Nieprawidłowe dane';
-    };
+    }
 }
 //console.log(getTriangleArea(-6, 10));
 

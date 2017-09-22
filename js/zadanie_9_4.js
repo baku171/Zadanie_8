@@ -4,8 +4,8 @@ function drawTree(levels) {
         for (var j = 0; j <= i; j++) {
             star += '*';
         }
-        console.log(star)
+        console.log(star);
     }
 }
 
-drawTree(9)
+drawTree(9);
